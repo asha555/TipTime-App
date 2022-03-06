@@ -8,7 +8,7 @@ import android.view.inputmethod.InputMethodManager
 import androidx.appcompat.app.AppCompatActivity
 import com.example.tiptime.databinding.ActivityMainBinding
 import java.text.NumberFormat
-
+//add project
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
